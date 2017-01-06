@@ -1,0 +1,11 @@
+# Blender v2.69 (sub 0) OBJ File: ''
+# www.blender.org
+mtllib plane_back.mtl
+o Plane.004
+v 10.000002 19.999998 10.000000
+v 10.000000 20.000002 -10.000000
+v 9.999998 0.000000 -10.000000
+v 10.000000 0.000000 10.000000
+usemtl None.004
+s off
+f 1 2 3 4
